@@ -13,7 +13,7 @@
       srcset="https://github-readme-stats.vercel.app/api?username=Burnside999&include_all_commits=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=Octopus136&include_all_commits=true" alt="Octopus136's GitHub stats" />
+    <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=Burnside999&include_all_commits=true" alt="Octopus136's GitHub stats" />
   </picture>
   <picture align="center" height="200em">
     <source 
@@ -24,6 +24,6 @@
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Burnside999&layout=compact"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Octopus136&layout=compact" alt="Octopus136's GitHub stats" />
+    <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Burnside999&layout=compact" alt="Octopus136's GitHub stats" />
   </picture>
 </p>
