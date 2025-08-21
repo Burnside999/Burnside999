@@ -2,7 +2,7 @@
 
 ## 🔖 Bio
 * 🏆 Ex-ACM ICPC Competitor & 🥈 Silver Medalist
-* 🎓 M.Eng in Electronics & Information (Ongoing)
+* 🎓 M.Eng in Electronics & Information **(Ongoing)**
 * ❤️‍🔥 Passionate Programmer
 * 🛠️ Capable of Full-Stack Development
 
