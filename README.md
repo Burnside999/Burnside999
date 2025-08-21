@@ -1,7 +1,25 @@
-### Hi there 👋
+# Hi there 👋
 
-- Lang: C++/Python/C/CUDA
-- Field: Computer Vision / Heterogeneous Computing / Deep Learning
+## 🔖 Bio
+* 🏆 Ex-ACM ICPC Competitor & 🥈 Silver Medalist
+* 🎓 M.Eng in Electronics & Information (Ongoing)
+* ❤️‍🔥 Passionate Programmer
+* 🛠️ Capable of Full-Stack Development
+
+## 🖥️ Lang & Tech
+* C++ / C / C#
+* CUDA
+* Python
+* Javascript / Typescript
+* HTML
+
+## 🧪 Field & Interest
+* 👁️‍🗨️ Computer Vision
+* ⚙️ Heterogeneous Computing
+* 🧠 Deep Learning
+* 🚀 Application Development
+
+## 🌐 Github Activity
 
 <p align="center">
   <picture align="center" height="200em">
@@ -27,3 +45,4 @@
     <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Burnside999&layout=compact" alt="Octopus136's GitHub stats" />
   </picture>
 </p>
+
